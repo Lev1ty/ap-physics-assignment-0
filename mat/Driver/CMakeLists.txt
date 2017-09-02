@@ -1,0 +1,2 @@
+ADD_EXECUTABLE(Driver Driver.cpp)
+TARGET_LINK_LIBRARIES(Driver LINK_PUBLIC Matrix)
