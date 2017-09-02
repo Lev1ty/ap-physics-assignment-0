@@ -1,2 +1,1 @@
-the application will be found in Driver/.
-run Driver without any arguments.
+run Driver.exe from command line without any arguments.
