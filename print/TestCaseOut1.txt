@@ -1,0 +1,10 @@
+// This is a Test Case
+// Below is a coefficient vector for 6th degree fit
+// All parameters were randomly generated
+3.47054e-08	
+5.36407e-06	
+3.16091e-05	
+-0.0124887	
+-0.033475	
+-1.28147	
+
